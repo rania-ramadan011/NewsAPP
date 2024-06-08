@@ -1,0 +1,24 @@
+{
+  "originHash" : "7a67bcea4039ad4e6a2c67ea66ab5d44164d6cd73a81a6990748a07e21c01eed",
+  "pins" : [
+    {
+      "identity" : "commonutilities",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rania-ramadan011/CommonUtilities.git",
+      "state" : {
+        "revision" : "2406a1c01d7f1caf6f09841cc2e04e7898fdd669",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "newscore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rania-ramadan011/NewsCore.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "102d2f9e51d3879be073b7c99877732b79c7a977"
+      }
+    }
+  ],
+  "version" : 3
+}
